@@ -1,0 +1,50 @@
+#main{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #313131;
+    background-color: #f4f4f4;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#caption{
+    background-color:white;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info{
+    padding-bottom: 20px;
+}
+
+#timeline-title{
+    padding: 25px;
+}
+
+#timeline-list{
+    max-width: 550px;
+    text-align: left;
+    line-height: 1.6;
+    margin: 0 auto;
+}
+
+li{
+    padding: 10px;
+}
+
+.idezet{
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: left;
+}
+
+#footer{
+    padding-bottom: 35px;
+}
